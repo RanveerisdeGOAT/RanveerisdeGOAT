@@ -1,22 +1,18 @@
-<h2>👋 Hi, I’m Ranveer </h2>
-<ul>
-  <strong>Strengths</strong>
-  <li>
-    <p>Python, Java and Javascript programing</p>
-  </li>
-  <li>
-    <p>API's in Python</p>
-  </li>
-  <li>
-    <p>Web dev and UX in Javascript, HTML and CSS</p>
-  </li>
-  <li>
-    <p>Leaving bugs in my code ;)</p>
-  </li>
-</ul>
-<br>
+<h2>👋 Hi, I’m Ranveer</h2>
 
-I joined github because i make a lot of errors for you to fix ;)
+### 💪 Strengths
+- 🐍 Python, ☕ Java, and ⚡ JavaScript programming  
+- 🔗 Building APIs with Python (FastAPI / Flask)  
+- 🌐 Web development & UX using JavaScript, HTML, and CSS  
+- 🐞 Expert at leaving bugs in my code 😉  
+
+---
+
+### 🙌 About Me
+I joined GitHub because I make a *lot* of errors…  
+so you’ll always have something to fix 😅  
+
+---
 
 <!---
 RanveerisdeGOAT/RanveerisdeGOAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
