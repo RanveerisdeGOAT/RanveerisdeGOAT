@@ -2,7 +2,7 @@
 
 ### 💪 Strengths
 - 🐍 Python, ☕ Java, and ⚡ JavaScript programming  
-- 🔗 Building APIs with Python (FastAPI / Flask)  
+- 🔗 Building APIs with Python
 - 🌐 Web development & UX using JavaScript, HTML, and CSS  
 - 🐞 Expert at leaving bugs in my code 😉  
 
