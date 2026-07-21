@@ -1,8 +1,7 @@
 <h2> Hi, I’m Ranveer</h2>
 
 ###  Strengths
--  Python, Java, and JavaScript programming  
--  Building APIs with Python
+-  Python, Java, C++ and JavaScript programming  
 -  Web development & UX using JavaScript, HTML, and CSS  
 -  Expert at leaving bugs in my code ;) 
 
