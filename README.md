@@ -1,16 +1,16 @@
-<h2>👋 Hi, I’m Ranveer</h2>
+<h2> Hi, I’m Ranveer</h2>
 
-### 💪 Strengths
-- 🐍 Python, ☕ Java, and ⚡ JavaScript programming  
-- 🔗 Building APIs with Python
-- 🌐 Web development & UX using JavaScript, HTML, and CSS  
-- 🐞 Expert at leaving bugs in my code 😉  
+###  Strengths
+-  Python, Java, and JavaScript programming  
+-  Building APIs with Python
+-  Web development & UX using JavaScript, HTML, and CSS  
+-  Expert at leaving bugs in my code ;) 
 
 ---
 
-### 🙌 About Me
+###  About Me
 I joined GitHub because I make a *lot* of errors…  
-so you’ll always have something to fix 😅  
+so you’ll always have something to fix
 
 ---
 
