@@ -1,7 +1,8 @@
 <h2> Hi, I’m Ranveer</h2>
 
 ###  Strengths
--  Python, Java, C++ and JavaScript programming  
+-  Python backend and gamedev.
+-  C++ gamedev.
 -  Web development & UX using JavaScript, HTML, and CSS  
 -  Expert at leaving bugs in my code ;) 
 
@@ -10,6 +11,8 @@
 ###  About Me
 I joined GitHub because I make a *lot* of errors…  
 so you’ll always have something to fix
+
+You can view my portfolio where i host my projects/demo's website [here](https://ranveerisdegoat.github.io/)
 
 ---
 
